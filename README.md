@@ -10,7 +10,11 @@ Dependecies
 
 jmat requires:
 - Python(>=3.6.3)
-===========
+
+To install jmat you can use pip
+
+`pip install jmat`
+
 
 Files
 -----
