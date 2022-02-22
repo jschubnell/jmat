@@ -158,17 +158,17 @@ class Matrix():
                 
             Returns
             -------
-            str:
+            output: str
                 A string with the Matrix dimensions
         '''
-        print()
+        output = "\n"
         for row in range(self.i):
             begin = row*self.j
             end = (row + 1)*self.j
-            print("|" + "  ".join(list(map(str, self.values[begin:end]))) + "|")
-        print()
-        
-        return f"Matrix Dimensions: {self.i} x {self.j}"
+            output += "|" + "  ".join(list(map(str, self.values[begin:end]))) + "|\n"
+        output += f"\nMatrix Dimensions: {self.i} x {self.j}"
+
+        return output
         
         
         
