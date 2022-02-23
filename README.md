@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/jschubnell/jmat.svg?branch=main)](https://app.travis-ci.com/jschubnell/jmat)
+
 **jmat** is a Python package to perform matrix operations.
 
 This project was started by João Schubnell as part of an Udacity Course exercise to study python packaging.
