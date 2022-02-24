@@ -1,4 +1,6 @@
-[![Build Status](https://app.travis-ci.com/jschubnell/jmat.svg?branch=main)](https://app.travis-ci.com/jschubnell/jmat)
+# Introduction
+
+[![Build Status](https://app.travis-ci.com/jschubnell/jmat.svg?branch=main)](https://app.travis-ci.com/jschubnell/jmat) [![codecov](https://codecov.io/gh/jschubnell/jmat/branch/main/graph/badge.svg?token=IZ1R6ROA08)](https://codecov.io/gh/jschubnell/jmat)
 
 **jmat** is a Python package to perform matrix operations.
 
@@ -11,7 +13,7 @@ Installation
 Dependecies
 
 jmat requires:
-- Python(>=3.6.3)
+- Python(>=3.7)
 
 To install jmat you can use pip
 
