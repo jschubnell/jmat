@@ -4,7 +4,7 @@
 
 **jmat** is a Python package to perform matrix operations.
 
-This project was started and maintened by [João Schubnell](https://www.linkedin.com/in/jo%C3%A3o-schubnell-lima/) as an exercise in Software Engineering
+This project was started and maintened by [João Schubnell](https://www.linkedin.com/in/jo%C3%A3o-schubnell-lima/) as an exercise in Software Engineering and CI/CD best practices.
 
 Installation
 ------------
